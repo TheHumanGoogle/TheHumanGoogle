@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TheHumanGoogle
-- 👀 I’m interested in Cybersecurity(predominantly Threat Intelligence,Malware Analysis and Penetration Testing.)
-- 🌱 I’m currently diving into Threat Intelligence.
-- 💞️ I’m looking to collaborate on mainly Python-Based projects for OSINT,Threat Intelligence and other interesting projects.
-- 📫 You can reach me through shyamkarthick@protonmail.com
+- 👋 Hi, I’m Shyam Karthick.
+- 👀 I’m interested in Cybersecurity and Mulesoft Development.
+- 🌱 I’m currently diving into SOC, Pentesting and Opensource Development projects.
+- 💞️ I’m looking to collaborate on mainly Mulesoft based Development and  Python-Based projects for OSINT,Threat Intelligence.
+- 📫 You can reach me through shyamkarthick@protonmail.com.
 
 <!---
 TheHumanGoogle/TheHumanGoogle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
